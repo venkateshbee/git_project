@@ -1,1 +1,1 @@
-hi this is first commit in local reo
+hi this is first commit in local repository
